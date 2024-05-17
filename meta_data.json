@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "ecommerce",
+        "2": "payment",
+        "3": "small business",
+        "4": "customer support"
+    },
+    "description": "Sellix Is a API call intergration app for use with Sellix.io stores\n\n",
+    "image": "//meta-q.cdn.bubble.io/f1715927251568x601965482831066100/0x0.png",
+    "license": "open_source",
+    "link": "https://docs.sellix.io/api-reference/",
+    "name": "Sellix"
+}
